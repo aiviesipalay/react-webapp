@@ -1,0 +1,429 @@
+ 
+ .card-newsletter{
+    width:  12em !important;
+    height: 18em !important;
+    margin-left:auto !important;
+    margin-right: auto !important;
+    box-shadow: 10px 10px 15px rgb(0,0,0,.2);
+
+   
+ }
+ .inputNewsletter{
+    height: 1.3em !important; 
+    border: 0px solid black;
+    
+ }
+  
+ .formNewsletter{
+    border: 0px solid black !important;
+    box-shadow: 0px 0px 0px rgba(0,0,0,.2);
+ }
+ .card-body-newsletter{
+    border-bottom: 1px solid rgb(0,0,0,.3) !important;
+ }
+
+ .swal2-title{
+   margin-right: 1.5em;
+ 
+   margin-top: 1em;
+   box-shadow: 0px 0px 0px rgb(255, 255, 255, 0);
+   background-color: rgb(255, 255, 255, 0);
+ }
+ .card-body input{
+    width: 11em !important;
+    /* margin-left: -.6em !important; */
+    font-size:x-large;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-body button{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    font-size: small;
+}
+
+ 
+ .test img{
+    /* width:100;
+    height: 100vh; */
+    margin-top: 5%;
+    
+
+ }
+ .welcome{
+    
+    /* border-bottom: #FFD871 2px solid; */
+    background-color: rgb(225, 222, 222, .5);
+    box-shadow: 10px 10px 10px rgba(0,0,0,.2);
+
+ }
+ .welcome h1{
+    color: #bd6513;
+    text-shadow:#FFD871 0 0 3px , 0 0 5px #bd6513 ;
+    
+ }
+ .landingpage{
+    background-size:cover;
+    width: 100vw;
+    height: 100vh;
+    border-bottom:2px solid #FFD871;
+ }
+ .gkeqQl{
+    background-color: rgb(248, 204, 204,) !important;
+ }
+
+.card {
+    width: 100%;
+    height: 100vh;
+    /* background-color:#f3e9cd;  */
+    border: #f5d7c2 ;
+    background-color:rgb(248, 204, 204,) !important;
+    font-size: 30px;
+    margin: 0 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+/* .image-section{
+    width: 100%;
+    height: 100%;
+} */
+h2{
+    color: #bd6513;
+    background-color: rgba(255,255,255,.8);
+    position:absolute;
+    bottom: 15%;
+    left: 5%;
+    z-index:1000;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,.4);
+}
+
+.Homepage{
+    background-color:rgb(248, 204, 204,) !important;
+    border-bottom: #FFD871 2px solid;
+    border-top: #FFD871 2px solid;
+    
+}
+
+
+.card .logo .image{
+    width:100%;
+    
+    
+}
+.card .logo h1{
+    color:#bd6513;
+}
+
+
+.card .slide{
+    width: 100%;
+    height: 80%;
+    border-radius: 15px;
+}
+
+
+
+.gekajb button{
+    font-size: 4em !important;
+    color: #bd6513;
+    height: 0px !important;
+    border: #bd6513;
+   
+}
+.rec-arrow-left{
+    position: absolute;
+    left: 5%;
+    z-index: 1000;
+    
+    
+}
+.rec-arrow-right{
+    position: absolute;
+    right: 5%;
+    z-index: 1000;
+    
+}
+.estLZs button{
+    box-shadow: 0 0 0px 0px #bd6513;
+    background-color: rgb(248, 204, 204,);
+    position: relative;
+    top: -10em;
+    left: -40em;
+    z-index: 1;
+  
+}
+
+
+.social{
+    position: fixed;
+    z-index: 1000;
+    cursor: pointer;
+    top: 30%;
+    left:1.2%;
+    background-color:#f3e9cd  !important;
+    width: 15px;
+    height: 100px;
+    border:#FFD871 1px solid !important;
+  
+        
+}
+.social li{
+    background-color:#f3e9cd  !important; 
+    border: #FFD871 1px solid !important;
+    font-size: medium; 
+}
+
+
+
+
+
+.mx-3{
+    font-size:x-large;
+    color: #bd6513;
+    margin-top: 2em;  
+}
+.row{
+    margin-right: 2em !important;
+}
+.card-body h5{
+    color: #bd6513 !important;
+    font-size: medium;
+}
+.card-body p{
+    font-size: small;
+}
+h3{
+    color: #bd6513;
+}
+.col-md-3 .card{
+    background-color:rgb(255, 255, 255) !important;
+    border: #FFD871 2px solid;
+    height: 100%;
+    justify-content: center;
+    box-shadow: 5px 5px 12px rgba(45, 43, 43, 0.2);
+    overflow: hidden;
+   
+}
+/* .card-header{
+    background-color: rgb(255, 255, 255);
+    
+} */
+/* .card-header img{
+    border-radius: 5px;
+
+} */
+.col-md-3 .card:hover{
+    position: relative;
+    top: -10px;
+    
+}
+.card .nail-art:hover{
+   
+    transform: scale(1);
+    z-index: 1;
+}
+.card-hover{
+    height: 0em;
+    width: 100%;
+    color:#f3e9cd;
+    position:absolute;
+    bottom:0;
+    
+
+}
+.card .nail-art:hover .card-hover{
+    height: 100%;
+    bottom: 1.9%;
+    background-color: #ffffff;
+    opacity: .8;
+}
+
+.btn-light{
+    --bs-btn-hover-color: #bd6513 !important;
+    box-shadow: 5px 5px 5px rgb(0,0,0,.1);
+    border:#FFD871 1px solid;
+}
+.col-md-3 button{
+    color:#bd6513;
+}
+h4{
+     color:#bd6513;
+}
+
+.section-owner{
+    margin-top: 2em;
+    border-top: #FFD871 2px solid;
+    border-bottom: #FFD871 2px solid;
+}
+.ownerPic {
+    border-radius: .5em;
+     box-shadow: 10px 10px 12px rgb(0,0,0,.3); 
+}  
+
+.col-md-6 li{
+    background-color: rgba(255, 255, 255, 0.6) !important;
+    box-shadow: 5px 5px 5px rgba(0,0,0,.2);
+}
+
+@media only screen and (max-width: 1200px) {
+    .card-newsletter{
+        margin-top: 5px !important;
+    }
+   
+}
+
+@media only screen and (max-width: 960px) {
+    .card-body p{
+        font-size: small;
+    }
+}
+
+
+@media only screen and (max-width: 760px) {
+    
+   
+    .gekajb button{
+        font-size: 1.2em !important;
+       min-width: 1px !important;
+       height: 0px !important;
+       color: #bd6513;
+      
+    }
+    .card-newsletter{
+        margin-top: 5px !important;
+    }
+    
+   
+    
+.card .logo{
+    width:100%;
+    
+}
+
+    .card .slide{
+        width: 100%;
+        height: 10em;
+    }
+    col-md-3 .card{
+        width: 70%;
+        height: 90%;
+        justify-content: center !important;
+        margin-left: 10em !important;
+        margin-top: 3em !important;
+    }
+    .col-md-3 .card img{
+        width: 100%;
+        height: 80%;
+        margin-top: 1em;
+       
+    }
+
+    .col-md-3 .card .card-header{
+        width: 90%;
+        height: 80%;
+       
+    }
+    .card-body h5{
+        color: #bd6513 !important;
+        font-size: medium !important;
+    }
+    .card-body p{
+        font-size:small !important;
+    }
+    h2{
+        position: absolute;
+        left: 20%;
+        bottom:25%;
+        font-size: large;
+    }
+    .swal2-title{
+        margin-right: 12em;
+        font-size:medium;
+    }
+    .card-body input{
+        width: 11em !important;
+        margin-left: -.6em !important;
+        font-size:x-large;
+    }
+
+
+   
+}
+
+@media only screen and (max-width: 500px){
+    .landingpage{
+       
+        background-origin: initial !important;
+    }
+
+    .gekajb button{
+        font-size: 1.5em !important;
+       min-width: 1px !important;
+       height: 0px !important;
+       color: #bd6513;
+      
+    }
+
+    .test img{
+        margin-top:50% !important;
+    }
+  
+.card .logo{
+    width:100%;
+    
+}
+
+    .card .slide{
+        width: 100%;
+        height: 7em;
+    }
+
+    .col-md-3 .card{
+        width: 90%;
+        height: 90%;
+        justify-content: center !important;
+        margin-left: .7em;
+        margin-top: .2em !important;
+    }
+    .col-md-3 .card img{
+        width: 100%;
+        height: 80%;
+        margin-top: 1em;
+       
+    }
+    .col-md-3 .card .card-header{
+        width: 90%;
+        height: 80%;
+       
+    }
+    .card-body h5{
+        color: #bd6513 !important;
+        font-size: small;
+    }
+    .card-body p{
+        font-size:x-small;
+    }
+    .social{
+        top:18%;
+        right:1.5%;
+    }
+    h2{
+        bottom: 36%;
+        font-size: medium;
+        left:10%;
+       
+    }
+    .card-header p{
+        font-size: medium !important;
+    }
+
+    .swal2-title{
+        margin-right: 4em;
+        font-size:medium;
+    }
+
+
+}

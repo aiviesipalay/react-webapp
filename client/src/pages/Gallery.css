@@ -1,0 +1,26 @@
+.d-inline .gallery{
+     width: 10em;
+    height: 10em; 
+     -webkit-transition: width 3s, height 3s; 
+    transition: transform .9s;
+    box-shadow: 5px 5px 5px rgba(0,0,0,.1);
+    margin: .2em;
+   
+}
+.d-inline .gallery:hover{
+     /* width: 25%;
+    height: 25%;  */
+    /* position:absolute;
+    top:0;
+    bottom:0; */
+   
+  
+    transform: scale(1.8);
+}
+.gallerySection{
+    margin-top: 2%;
+    margin-bottom: 10%;
+}
+
+
+

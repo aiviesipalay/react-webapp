@@ -1,0 +1,43 @@
+/* .footerForm{
+    background-color: rgb(0,0,0,) !important;
+} */
+
+input, textarea{
+    border:1px solid rgb(0,0,0,.3) !important;
+    border-radius: 2px;
+    box-shadow: 3px 3px 5px rgb(0,0,0,.1);
+}
+form{
+    border:rgb(0,0,0,.3) 1px solid;
+    background-color: rgba(255, 255, 255, 0.6) !important; 
+    box-shadow: 7px 7px 12px rgba(0,0,0,.1);
+    border-radius: 10px;
+}
+.border-dark{
+    border-top: 1px solid rgb(0,0,0,.3) !important;
+}
+.footerSoc{
+    border:rgb(0,0,0,.3) 1px solid;
+    background-color: rgba(255, 255, 255, 0.6) !important; 
+    box-shadow: 7px 7px 12px rgba(0,0,0,.1);
+    border-radius: 10px;
+}
+
+@media only screen and (max-width: 760px) {
+    .footerMain{
+        margin-left: 5%;
+    }
+   input, textarea{
+    margin-left: -1.5em !important;
+
+   }
+   .input-form{
+    width: 80% !important;
+   }
+    .footerSoc{
+        width: 100%;
+    }
+    textarea{
+        width: 100% !important;
+    }
+}

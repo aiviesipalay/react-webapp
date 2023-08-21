@@ -1,0 +1,37 @@
+.carousel-inner img{
+    width: 100vw;
+    height: 90vh;
+}
+.carousel-iten{
+    transition: transform 1s ease-in-out !important;
+    transition-duration: 1s !important;
+    transition-delay: 500ms !important;
+}
+.caption{
+    background-color: rgb(255,255,255,.7);
+    width:fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,.5);
+}
+.carousel-control-prev-icon{
+    width: 3em !important;
+    height: 3em !important;
+   
+}
+.carousel-control-next-icon{
+    width: 3em !important;
+    height: 3em !important;
+    
+}
+
+@media only screen and (max-width: 760px) {
+    .carousel-inner img{
+        width: 100vw;
+        height: 45vh;
+    }
+    h3{
+        font-size: small;
+    }
+}

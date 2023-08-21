@@ -1,0 +1,80 @@
+.contact{
+    width: 25em;
+    height: 85vh;
+    
+    margin-left: 13% !important;
+    box-shadow: 5px 5px 12px rgba(0,0,0, .2);
+    border-radius: 0px solid black !important;    
+    /* border:1px solid black; */
+}
+.card-contact{
+    height: 100% !important;
+    /* border:0px solid rgb(255, 0, 115) !important; */
+    /* position: relative;
+    top: -7px; */
+} 
+.header{
+    height: 100%;
+    width: 100%;
+    border-bottom: 12px solid rgb(0,0,0,.6);
+}
+.header img{
+    height: 100%;
+    /* margin-bottom: 10%; */
+    border-radius: 0px !important;
+    width: 100%;
+    margin-top: 0em !important;
+    
+}
+.carousel-indicators{
+    position: absolute;
+    bottom: -20%;
+}
+
+
+
+
+    
+   
+
+
+
+h6{
+    color: #bd6513
+}
+
+
+
+.d-flex{
+    border-top: 1px solid rgb(0,0,0,.2) ;
+    /* border-radius: 5px; */
+    
+}
+
+@media only screen and (max-width: 960px) {
+    .contact{
+        margin-right: 10% !important;
+    }
+
+}
+
+@media only screen and (max-width: 760px) {
+    .contact{
+        margin-left: 5% !important;
+        margin-top: 1em !important;
+        height: 26.3em;
+     }
+    /* .card-contact{
+        height: 75% !important;
+    }  */
+    h6{
+        font-size: small !important;
+     }
+    .header{
+        height: 120% !important;
+    }
+    
+    /* .d-flex{
+        margin-top: -5em;
+    } */
+}
